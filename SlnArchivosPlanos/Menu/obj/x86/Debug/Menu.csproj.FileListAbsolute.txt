@@ -1,0 +1,9 @@
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\bin\Debug\Menu.exe
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\bin\Debug\Menu.pdb
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\obj\x86\Debug\Menu.Form1.resources
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\obj\x86\Debug\Menu.exe
+C:\Users\JhonMZ\documents\visual studio 2010\Projects\SlnArchivosPlanos\Menu\obj\x86\Debug\Menu.pdb
